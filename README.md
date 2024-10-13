@@ -61,6 +61,10 @@
 - https://systembugbd.github.io/web-profile/
   <br /><br />
 
+<h3>Electronic Driect Mail(EDM)</h3>
+<h5>Fully Responsive, DarkMode Compitable, All Email Client Support Custom Email Template</h5>
+- https://shahebali247bd.github.io/Mastering-Email-Template-101/
+
 <h3>Reach out me</h3>
 
 - 👨‍💻 To know more about all project and service please contact **wwwdonus@gmail.com**
