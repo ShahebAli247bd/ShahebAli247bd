@@ -43,6 +43,7 @@
   <a href="https://twitter.com/md_shaheb_ali" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <!-- <a href="https://www.behance.net/wwwdonus" target="_blank"><img src="https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a> -->
   <a href="https://www.facebook.com/learnwithshaheb/?notif_id=1732716760404351&notif_t=page_user_activity&ref=notif" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.youtube.com/@learnwithshaheb" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" /></a>
 </p>
 
 <h3 align="center" style="color:#ff8f00">My Projects</h3>
