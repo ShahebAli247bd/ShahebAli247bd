@@ -15,19 +15,19 @@
   <p align="left">
     <strong style="color:#00ff74">My key skills include:</strong>
     <ul style="list-style-type: none; padding: 0; text-align:left">
-      <li>• <strong style="color:#ff8f00">Hand-Coded HTML/CSS Email Templates</strong><br/> &nbsp; &nbsp;💻: Creating visually stunning and responsive email templates that adapt to all screen sizes and email clients.</li>
-      <li>• <strong style="color:#ff8f00">JavaScript for Dynamic Content</strong><br/> &nbsp; &nbsp;🖥️: Using JavaScript to enhance interactivity and deliver personalized email experiences.</li>
-      <li>• <strong style="color:#ff8f00">Email Client Compatibility</strong><br/> &nbsp; &nbsp;📱: Expertise in ensuring cross-client compatibility, including <strong>Outlook</strong> 📧, <strong>Gmail</strong> 📩, <strong>Apple Mail</strong> 🍏, and <strong>Yahoo</strong> 📬.</li>
-      <li>• <strong style="color:#ff8f00">Dark Mode Support</strong><br/> &nbsp; &nbsp;🌙: Ensuring email templates work flawlessly in dark mode, a must for modern email clients.</li>
-      <li>• <strong style="color:#ff8f00">Dynamic Content</strong><br/> &nbsp; &nbsp;⚡: Utilizing dynamic content to tailor emails to different user segments based on data and behavior.</li>
+      <li><strong style="color:#ff8f00">Hand-Coded HTML/CSS Email Templates</strong><br/> &nbsp; &nbsp;💻: Creating visually stunning and responsive email templates that adapt to all screen sizes and email clients.</li>
+      <li><strong style="color:#ff8f00">JavaScript for Dynamic Content</strong><br/> &nbsp; &nbsp;🖥️: Using JavaScript to enhance interactivity and deliver personalized email experiences.</li>
+      <li><strong style="color:#ff8f00">Email Client Compatibility</strong><br/> &nbsp; &nbsp;📱: Expertise in ensuring cross-client compatibility, including <strong>Outlook</strong> 📧, <strong>Gmail</strong> 📩, <strong>Apple Mail</strong> 🍏, and <strong>Yahoo</strong> 📬.</li>
+      <li><strong style="color:#ff8f00">Dark Mode Support</strong><br/> &nbsp; &nbsp;🌙: Ensuring email templates work flawlessly in dark mode, a must for modern email clients.</li>
+      <li><strong style="color:#ff8f00">Dynamic Content</strong><br/> &nbsp; &nbsp;⚡: Utilizing dynamic content to tailor emails to different user segments based on data and behavior.</li>
     </ul>
   </p>
 
   <p>
     <strong style="color:#00ff74">Platforms and Tools I excel in:</strong>
     <ul style="list-style-type: none; padding: 0;">
-      <li>• <strong style="color:#02b7ff">Email Marketing Platforms</strong>: Klaviyo 📧, Mailchimp 🐝, Adobe Campaign 🎨, Salesforce CRM 🚀.</li>
-      <li>• <strong style="color:#02b7ff">Design Tools</strong>: I have expert-level proficiency in <strong>Figma</strong> 🎨 and <strong>Photoshop</strong> 🖼️, enabling me to create pixel-perfect email designs before development.</li>
+      <li><strong style="color:#02b7ff">Email Marketing Platforms</strong>: Klaviyo 📧, Mailchimp 🐝, Adobe Campaign 🎨, Salesforce CRM 🚀.</li>
+      <li><strong style="color:#02b7ff">Design Tools</strong>: I have expert-level proficiency in <strong>Figma</strong> 🎨 and <strong>Photoshop</strong> 🖼️, enabling me to create pixel-perfect email designs before development.</li>
     </ul>
   </p>
 
@@ -64,19 +64,19 @@
         <a href="https://shahebali247bd.github.io/dacia-edm/" target="_blank">
           <img src="https://via.placeholder.com/200x100.png?text=Email+Template+1" alt="Email Template Project 1" width="200" height="100"/>
         </a>
-        <p><a href="https://shahebali247bd.github.io/dacia-edm/" target="_blank" style="color:#02b7ff">DACIA CAR</a></p>
+        <p><a href="https://shahebali247bd.github.io/dacia-edm/" target="_blank" style="color:#02b7ff; text-align:center">DACIA CAR</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
         <a href="https://shahebali247bd.github.io/Mastering-Email-Template-101/" target="_blank">
           <img src="https://via.placeholder.com/200x100.png?text=Email+Template+2" alt="Email Template Project 2" width="200" height="100"/>
         </a>
-        <p><a href="https://shahebali247bd.github.io/Mastering-Email-Template-101/" target="_blank" style="color:#02b7ff">Course Selling Project</a></p>
+        <p><a href="https://shahebali247bd.github.io/Mastering-Email-Template-101/" target="_blank" style="color:#02b7ff; text-align:center">Course Selling Project</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
         <a href="https://shahebali247bd.github.io/email-template-portfolio/" target="_blank">
           <img src="https://via.placeholder.com/200x100.png?text=Email+Template+3" alt="Email Template Project 3" width="200" height="100"/>
         </a>
-        <p><a href="https://shahebali247bd.github.io/email-template-portfolio/" target="_blank" style="color:#02b7ff">Developer Portfolio</a></p>
+        <p><a href="https://shahebali247bd.github.io/email-template-portfolio/" target="_blank" style="color:#02b7ff; text-align:center">Developer Portfolio</a></p>
       </td>
     </tr>
     <tr>
@@ -84,19 +84,19 @@
         <a href="https://shahebali247bd.github.io/course-project-1/" target="_blank">
           <img src="https://via.placeholder.com/200x100.png?text=Email+Template+4" alt="Email Template Project 4" width="200" height="100"/>
         </a>
-        <p><a href="https://shahebali247bd.github.io/course-project-1/" target="_blank" style="color:#02b7ff">Course First Project</a></p>
+        <p><a href="https://shahebali247bd.github.io/course-project-1/" target="_blank" style="color:#02b7ff; text-align:center">Course First Project</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
         <a href="https://demo-link-for-email-template.com" target="_blank">
           <img src="https://via.placeholder.com/200x100.png?text=Email+Template+5" alt="Email Template Project 5" width="200" height="100"/>
         </a>
-        <p><a href="https://demo-link-for-email-template.com" target="_blank" style="color:#02b7ff">Course Second Project</a></p>
+        <p><a href="https://demo-link-for-email-template.com" target="_blank" style="color:#02b7ff; text-align:center">Course Second Project</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
         <a href="https://demo-link-for-email-template.com" target="_blank">
           <img src="https://via.placeholder.com/200x100.png?text=Email+Template+6" alt="Email Template Project 6" width="200" height="100"/>
         </a>
-        <p><a href="https://demo-link-for-email-template.com" target="_blank" style="color:#02b7ff">Course Third Project</a></p>
+        <p><a href="https://demo-link-for-email-template.com" target="_blank" style="color:#02b7ff; text-align:center">Course Third Project</a></p>
       </td>
     </tr>
   </table>
@@ -114,19 +114,19 @@
         <a href="https://article-summarizer-ai-by-shaheb.netlify.app/" target="_blank">
           <img src="https://via.placeholder.com/200x100.png?text=Email+Template+1" alt="Article Summarizer AI" width="200" height="100"/>
         </a>
-        <p><a href="https://article-summarizer-ai-by-shaheb.netlify.app/" target="_blank" style="color:#02b7ff">Article Summarizer AI 🤖</a></p>
+        <p><a href="https://article-summarizer-ai-by-shaheb.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">Article Summarizer AI 🤖</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
         <a href="https://disney-clone-style-component.netlify.app/" target="_blank">
           <img src="https://via.placeholder.com/200x100.png?text=Email+Template+2" alt="Disney Styled Component" width="200" height="100"/>
         </a>
-        <p><a href="https://disney-clone-style-component.netlify.app/" target="_blank" style="color:#02b7ff">Disney (Styled Component) 🎬</a></p>
+        <p><a href="https://disney-clone-style-component.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">Disney (Styled Component) 🎬</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
         <a href="https://react-redux-todo-app-with-json-server.netlify.app/" target="_blank">
           <img src="https://via.placeholder.com/200x100.png?text=Email+Template+3" alt="Simple Todo App" width="200" height="100"/>
         </a>
-        <p><a href="https://react-redux-todo-app-with-json-server.netlify.app/" target="_blank" style="color:#02b7ff">Simple Todo App 📷</a></p>
+        <p><a href="https://react-redux-todo-app-with-json-server.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">Simple Todo App 📷</a></p>
       </td>
     </tr>
     <tr>
@@ -134,19 +134,19 @@
         <a href="https://google-meet-clone-by-shaheb.netlify.app/" target="_blank">
           <img src="https://via.placeholder.com/200x100.png?text=Email+Template+4" alt="Google Meet Clone" width="200" height="100"/>
         </a>
-        <p><a href="https://google-meet-clone-by-shaheb.netlify.app/" target="_blank" style="color:#02b7ff">Google Meet Clone 🗳️</a></p>
+        <p><a href="https://google-meet-clone-by-shaheb.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">Google Meet Clone 🗳️</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
         <a href="https://covid19trackingappbyshaheb.netlify.app/" target="_blank">
           <img src="https://via.placeholder.com/200x100.png?text=Email+Template+5" alt="Covid-19 Tracker" width="200" height="100"/>
         </a>
-        <p><a href="https://covid19trackingappbyshaheb.netlify.app/" target="_blank" style="color:#02b7ff">Covid 19 Tracker 🗳️</a></p>
+        <p><a href="https://covid19trackingappbyshaheb.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">Covid 19 Tracker 🗳️</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
         <a href="https://systembugbd.github.io/speed-typing-master/" target="_blank">
           <img src="https://via.placeholder.com/200x100.png?text=Email+Template+6" alt="Bangla Typing App" width="200" height="100"/>
         </a>
-        <p><a href="https://systembugbd.github.io/speed-typing-master/" target="_blank" style="color:#02b7ff">Bangla Typing App 🗳️</a></p>
+        <p><a href="https://systembugbd.github.io/speed-typing-master/" target="_blank" style="color:#02b7ff; text-align:center">Bangla Typing App 🗳️</a></p>
       </td>
     </tr>
   </table>
@@ -155,7 +155,7 @@
 <h3 align="center" style="color:#ff8f00">Technologies & Tools I Use</h3>
 
 <p align="center">
-  <strong style="color:#02b7ff">Additional Tools & Technologies:</strong>
+  <strong style="color:#02b7ff">Additional Tools &amp; Technologies:</strong>
   <br/>  <br/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -172,7 +172,7 @@
 </p>
 
 <p align="center">
-  <strong style="color:#02b7ff">Frontend Languages & Frameworks:</strong>
+  <strong style="color:#02b7ff">Frontend Languages &amp; Frameworks:</strong>
   <br/>  <br/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
