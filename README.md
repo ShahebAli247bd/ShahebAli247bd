@@ -203,7 +203,7 @@
 <h3 align="center" style="color:#ff8f00">Contact Me</h3>
 
 <p align="center">
-  <a href="mailto:shaheb.ali@domain.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:shahebali247bd@gmail.com  target="_blank">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
