@@ -26,7 +26,8 @@
   <p>
     <strong style="color:#00ff74">Platforms and Tools I excel in:</strong>
     <ul style="list-style-type: none; padding: 0;">
-      <li><strong style="color:#02b7ff">Email Marketing Platforms</strong>: Klaviyo 📧, Mailchimp 🐝, Adobe Campaign 🎨, Salesforce CRM 🚀.</li>
+      <li><strong style="color:#02b7ff">Email Marketing Platforms</strong>: Klaviyo 📧 Mailchimp 🐝 Adobe Campaign 🎨 Salesforce CRM 🚀 Campaign Monitor 📊 SendGrid 📬 EmailOnAcid 💻 Litmus 🔍
+</li>
       <li><strong style="color:#02b7ff">Design Tools</strong>: I have expert-level proficiency in <strong>Figma</strong> 🎨 and <strong>Photoshop</strong> 🖼️, enabling me to create pixel-perfect email designs before development.</li>
     </ul>
   </p>
