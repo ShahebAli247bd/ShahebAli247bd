@@ -31,8 +31,6 @@
     </ul>
   </p>
 
-</div>
-
 <p align="center">
   <a href="https://app.daily.dev/mdshahebali"><img src="https://api.daily.dev/devcards/v2/60ZZnJqUI0Can0i4Haj6N.png?r=p8g" width="356" alt="Md. Shaheb Ali's Dev Card"/></a>
 </p>
@@ -61,19 +59,19 @@
   <table style="width: 100%; max-width: 800px; border-collapse: collapse;">
     <tr>
       <td style="text-align: center; padding: 10px;">
-        <a href="https://shahebali247bd.github.io/dacia-edm/" target="_blank">
+        <a href="https://shahebali247bd.github.io/dacia-edm/" target="_blank" style="color:#02b7ff; text-align:center">
           <img src="https://via.placeholder.com/200x100.png?text=Email+Template+1" alt="Email Template Project 1" width="200" height="100"/>
         </a>
         <p><a href="https://shahebali247bd.github.io/dacia-edm/" target="_blank" style="color:#02b7ff; text-align:center">DACIA CAR</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
-        <a href="https://shahebali247bd.github.io/Mastering-Email-Template-101/" target="_blank">
+        <a href="https://shahebali247bd.github.io/Mastering-Email-Template-101/" target="_blank" style="color:#02b7ff; text-align:center">
           <img src="https://via.placeholder.com/200x100.png?text=Email+Template+2" alt="Email Template Project 2" width="200" height="100"/>
         </a>
         <p><a href="https://shahebali247bd.github.io/Mastering-Email-Template-101/" target="_blank" style="color:#02b7ff; text-align:center">Course Selling Project</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
-        <a href="https://shahebali247bd.github.io/email-template-portfolio/" target="_blank">
+        <a href="https://shahebali247bd.github.io/email-template-portfolio/" target="_blank" style="color:#02b7ff; text-align:center">
           <img src="https://via.placeholder.com/200x100.png?text=Email+Template+3" alt="Email Template Project 3" width="200" height="100"/>
         </a>
         <p><a href="https://shahebali247bd.github.io/email-template-portfolio/" target="_blank" style="color:#02b7ff; text-align:center">Developer Portfolio</a></p>
@@ -81,19 +79,19 @@
     </tr>
     <tr>
       <td style="text-align: center; padding: 10px;">
-        <a href="https://shahebali247bd.github.io/course-project-1/" target="_blank">
+        <a href="https://shahebali247bd.github.io/course-project-1/" target="_blank" style="color:#02b7ff; text-align:center">
           <img src="https://via.placeholder.com/200x100.png?text=Email+Template+4" alt="Email Template Project 4" width="200" height="100"/>
         </a>
         <p><a href="https://shahebali247bd.github.io/course-project-1/" target="_blank" style="color:#02b7ff; text-align:center">Course First Project</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
-        <a href="https://demo-link-for-email-template.com" target="_blank">
+        <a href="https://demo-link-for-email-template.com" target="_blank" style="color:#02b7ff; text-align:center">
           <img src="https://via.placeholder.com/200x100.png?text=Email+Template+5" alt="Email Template Project 5" width="200" height="100"/>
         </a>
         <p><a href="https://demo-link-for-email-template.com" target="_blank" style="color:#02b7ff; text-align:center">Course Second Project</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
-        <a href="https://demo-link-for-email-template.com" target="_blank">
+        <a href="https://demo-link-for-email-template.com" target="_blank" style="color:#02b7ff; text-align:center">
           <img src="https://via.placeholder.com/200x100.png?text=Email+Template+6" alt="Email Template Project 6" width="200" height="100"/>
         </a>
         <p><a href="https://demo-link-for-email-template.com" target="_blank" style="color:#02b7ff; text-align:center">Course Third Project</a></p>
@@ -111,40 +109,40 @@
   <table style="width: 100%; max-width: 1000px; border-collapse: collapse;">
     <tr>
       <td style="text-align: center; padding: 10px;">
-        <a href="https://article-summarizer-ai-by-shaheb.netlify.app/" target="_blank">
-          <img src="https://via.placeholder.com/200x100.png?text=Email+Template+1" alt="Article Summarizer AI" width="200" height="100"/>
+        <a href="https://article-summarizer-ai-by-shaheb.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">
+          <img src="https://via.placeholder.com/200x100.png?text=Web+App+1" alt="Article Summarizer AI" width="200" height="100"/>
         </a>
         <p><a href="https://article-summarizer-ai-by-shaheb.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">Article Summarizer AI 🤖</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
-        <a href="https://disney-clone-style-component.netlify.app/" target="_blank">
-          <img src="https://via.placeholder.com/200x100.png?text=Email+Template+2" alt="Disney Styled Component" width="200" height="100"/>
+        <a href="https://disney-clone-style-component.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">
+          <img src="https://via.placeholder.com/200x100.png?text=Web+App+2" alt="Disney Styled Component" width="200" height="100"/>
         </a>
         <p><a href="https://disney-clone-style-component.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">Disney (Styled Component) 🎬</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
-        <a href="https://react-redux-todo-app-with-json-server.netlify.app/" target="_blank">
-          <img src="https://via.placeholder.com/200x100.png?text=Email+Template+3" alt="Simple Todo App" width="200" height="100"/>
+        <a href="https://react-redux-todo-app-with-json-server.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center"> 
+          <img src="https://via.placeholder.com/200x100.png?text=Web+App+3" alt="Simple Todo App" width="200" height="100"/>
         </a>
         <p><a href="https://react-redux-todo-app-with-json-server.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">Simple Todo App 📷</a></p>
       </td>
     </tr>
     <tr>
       <td style="text-align: center; padding: 10px;">
-        <a href="https://google-meet-clone-by-shaheb.netlify.app/" target="_blank">
-          <img src="https://via.placeholder.com/200x100.png?text=Email+Template+4" alt="Google Meet Clone" width="200" height="100"/>
+        <a href="https://google-meet-clone-by-shaheb.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">
+          <img src="https://via.placeholder.com/200x100.png?text=Web+App+4" alt="Google Meet Clone" width="200" height="100"/>
         </a>
         <p><a href="https://google-meet-clone-by-shaheb.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">Google Meet Clone 🗳️</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
-        <a href="https://covid19trackingappbyshaheb.netlify.app/" target="_blank">
-          <img src="https://via.placeholder.com/200x100.png?text=Email+Template+5" alt="Covid-19 Tracker" width="200" height="100"/>
+        <a href="https://covid19trackingappbyshaheb.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">
+          <img src="https://via.placeholder.com/200x100.png?text=Web+App+5" alt="Covid-19 Tracker" width="200" height="100"/>
         </a>
         <p><a href="https://covid19trackingappbyshaheb.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">Covid 19 Tracker 🗳️</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
-        <a href="https://systembugbd.github.io/speed-typing-master/" target="_blank">
-          <img src="https://via.placeholder.com/200x100.png?text=Email+Template+6" alt="Bangla Typing App" width="200" height="100"/>
+        <a href="https://systembugbd.github.io/speed-typing-master/" target="_blank" style="color:#02b7ff; text-align:center">
+          <img src="https://via.placeholder.com/200x100.png?text=Web+App+6" alt="Bangla Typing App" width="200" height="100"/>
         </a>
         <p><a href="https://systembugbd.github.io/speed-typing-master/" target="_blank" style="color:#02b7ff; text-align:center">Bangla Typing App 🗳️</a></p>
       </td>
@@ -207,3 +205,4 @@
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+</div>
