@@ -1,112 +1,210 @@
-<h1 align="center">Hi 👋, I'm Shaheb Ali</h1>
-<h3 align="center">A passionate Frontend focus Fullstack Developer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=systembugbd&label=Profile%20views&color=0075ce&style=flat" alt="Shaheb Ali" /> </p>
+<h1 align="center">Hi 👋, I'm Shaheb Ali</h1> 
+<h3 align="center">📧 9+ Years Experienced Expert Email Developer 💻</h3>
+<h5 align="center" style="color:#00ff74">Working for Dell Technology</h5>
 
-- 👀 I’m interested in JavaScript, ReactJS, NextJS and NodeJS
-- 🌱 I’m always learning and working on JavaScript, ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, Firebase, Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma Prototyping etc.
-- 💞️ I’m looking to collaborate on Open Source Project and Personal Project
-- 📫 How to reach me look at below-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=systembugbd" alt="Shaheb Ali" />
+ 
+</p>
 
-<div align="center" style="width:250px; margin:0 auto;">
-  <a href="https://app.daily.dev/mdshahebali"><img src="https://api.daily.dev/devcards/v2/60ZZnJqUI0Can0i4Haj6N.png?r=p8g" width="356" alt="Md. Shaheb Ali's Dev Card"/></a>
+<div style="max-width: 700px; margin: 0 auto; text-align: left;">
+  <p  align="left" >
+    With over 9+ years of experience in web Technology, specialize in <strong>hand-coded custom email template development</strong>. I ensure all my email templates are <strong style="color:#00ff74">fully responsive</strong>, <strong style="color:#ff8f00">dark mode-compatible</strong>, and tested to perform seamlessly across <strong style="color:#02b7ff">all major email clients</strong> 📨. My expertise spans working with platforms like <strong>Klaviyo</strong> 📧, <strong>Mailchimp</strong> 🐝, <strong>Adobe Campaign</strong> 🎨, and <strong>Salesforce CRM</strong> 🚀, enabling me to deliver dynamic and personalized email campaigns.
+  </p>
+
+  <p align="left">
+    <strong style="color:#00ff74">My key skills include:</strong>
+    <ul style="list-style-type: none; padding: 0; text-align:left">
+      <li>• <strong style="color:#ff8f00">Hand-Coded HTML/CSS Email Templates</strong><br/> &nbsp; &nbsp;💻: Creating visually stunning and responsive email templates that adapt to all screen sizes and email clients.</li>
+      <li>• <strong style="color:#ff8f00">JavaScript for Dynamic Content</strong><br/> &nbsp; &nbsp;🖥️: Using JavaScript to enhance interactivity and deliver personalized email experiences.</li>
+      <li>• <strong style="color:#ff8f00">Email Client Compatibility</strong><br/> &nbsp; &nbsp;📱: Expertise in ensuring cross-client compatibility, including <strong>Outlook</strong> 📧, <strong>Gmail</strong> 📩, <strong>Apple Mail</strong> 🍏, and <strong>Yahoo</strong> 📬.</li>
+      <li>• <strong style="color:#ff8f00">Dark Mode Support</strong><br/> &nbsp; &nbsp;🌙: Ensuring email templates work flawlessly in dark mode, a must for modern email clients.</li>
+      <li>• <strong style="color:#ff8f00">Dynamic Content</strong><br/> &nbsp; &nbsp;⚡: Utilizing dynamic content to tailor emails to different user segments based on data and behavior.</li>
+    </ul>
+  </p>
+
+  <p>
+    <strong style="color:#00ff74">Platforms and Tools I excel in:</strong>
+    <ul style="list-style-type: none; padding: 0;">
+      <li>• <strong style="color:#02b7ff">Email Marketing Platforms</strong>: Klaviyo 📧, Mailchimp 🐝, Adobe Campaign 🎨, Salesforce CRM 🚀.</li>
+      <li>• <strong style="color:#02b7ff">Design Tools</strong>: I have expert-level proficiency in <strong>Figma</strong> 🎨 and <strong>Photoshop</strong> 🖼️, enabling me to create pixel-perfect email designs before development.</li>
+    </ul>
+  </p>
+
 </div>
 
-<h3>Find me on Social Media</h3>
-
-<br />
 <p align="center">
-<a href="https://www.linkedin.com/in/md-shaheb-ali-wwwdon/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/md_shaheb_ali" target="_blank rel="noopener noreferrer="">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.behance.net/wwwdonus" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>  
+  <a href="https://app.daily.dev/mdshahebali"><img src="https://api.daily.dev/devcards/v2/60ZZnJqUI0Can0i4Haj6N.png?r=p8g" width="356" alt="Md. Shaheb Ali's Dev Card"/></a>
+</p>
+
+<h3 align="center" style="color:#ff8f00">Find me on Social Media</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-shaheb-ali-wwwdon/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/md_shaheb_ali" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <!-- <a href="https://www.behance.net/wwwdonus" target="_blank"><img src="https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a> -->
+  <a href="https://www.facebook.com/learnwithshaheb/?notif_id=1732716760404351&notif_t=page_user_activity&ref=notif" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
+
+<h3 align="center" style="color:#ff8f00">My Projects</h3>
+
+<p align="center">
+  <strong>All of my email template development projects are available on my <a href="https://github.com/ShahebAli247bd" target="blank">GitHub</a> profile.</strong>
+</p>
+
+<h3 align="center" style="color:#ff8f00">Email Template Portfolio</h3>
+
+<p align="center">
+  <strong>Some of my email template work includes:</strong>
 </p>
 
 <div align="center">
-  
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=systembugbd&theme=onedark" alt="Shaheb Ali" /></a> </p>
+  <!-- First row of email templates -->
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+    <div>
+      <a href="https://shahebali247bd.github.io/dacia-edm/" target="_blank">
+        <img src="https://via.placeholder.com/200x100.png?text=Email+Template+1" alt="Email Template Project 1" width="200" height="100"/>
+      </a>
+      <p><a href="https://shahebali247bd.github.io/dacia-edm/" target="_blank" style="color:#02b7ff">DACIA CAR</a></p>
+    </div>
+    <div>
+      <a href="https://shahebali247bd.github.io/Mastering-Email-Template-101/" target="_blank">
+        <img src="https://via.placeholder.com/200x100.png?text=Email+Template+2" alt="Email Template Project 2" width="200" height="100"/>
+      </a>
+      <p><a href="https://shahebali247bd.github.io/Mastering-Email-Template-101/" target="_blank" style="color:#02b7ff">Course Selling Project</a></p>
+    </div>
+    <div>
+      <a href="https://shahebali247bd.github.io/email-template-portfolio/" target="_blank">
+        <img src="https://via.placeholder.com/200x100.png?text=Email+Template+3" alt="Email Template Project 3" width="200" height="100"/>
+      </a>
+      <p><a href="https://shahebali247bd.github.io/email-template-portfolio/" target="_blank" style="color:#02b7ff">Developer Portfolio</a></p>
+    </div>
+  </div>
 
-  <p align="center"> <a href="https://twitter.com/md_shaheb_ali" target="blank"><img src="https://img.shields.io/twitter/follow/md_shaheb_ali?logo=twitter&style=for-the-badge" alt="md_shaheb_ali" /></a> </p>
+<!-- Second row of email templates -->
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+    <div>
+      <a href="https://shahebali247bd.github.io/course-project-1/" target="_blank">
+        <img src="https://via.placeholder.com/200x100.png?text=Email+Template+4" alt="Email Template Project 4" width="200" height="100"/>
+      </a>
+      <p><a href="https://shahebali247bd.github.io/course-project-1/" target="_blank" style="color:#02b7ff">Course First Project</a></p>
+    </div>
+    <div>
+      <a href="https://demo-link-for-email-template.com" target="_blank">
+        <img src="https://via.placeholder.com/200x100.png?text=Email+Template+5" alt="Email Template Project 5" width="200" height="100"/>
+      </a>
+      <p><a href="https://demo-link-for-email-template.com" target="_blank" style="color:#02b7ff">Course Second Project</a></p>
+    </div>
+    <div>
+      <a href="https://demo-link-for-email-template.com" target="_blank">
+        <img src="https://via.placeholder.com/200x100.png?text=Email+Template+6" alt="Email Template Project 6" width="200" height="100"/>
+      </a>
+      <p><a href="https://demo-link-for-email-template.com" target="_blank" style="color:#02b7ff">Course Third Project
+      </a></p>
+    </div>
+  </div>
 </div>
-* 🌱 I’m expert in **JavaScript, React, NextJS, NodeJS, ExpressJS, Adobe Photoshop, Adobe Illustrator, Adobe XD and Figma prototyping etc.**
 
-<h3 align="center"> 👨‍💻 All of my projects are available at <a href="https://github.com/systembugbd/" target="blank">Github</a> profile</h3>
-- There are some live url on heroku, netlify and github
+<h3 align="center" style="color:#ff8f00">Demo Projects</h3>
+<p align="center">
+  <strong> Some of my live demo projects:</strong>
+</p>
+<div align="center">
 
-- https://article-summarizer-ai-by-shaheb.netlify.app/
-- https://react-redux-todo-app-with-json-server.netlify.app/
-- https://covid19trackingappbyshaheb.netlify.app/
-- https://google-meet-clone-by-shaheb.netlify.app/
-- https://disney-clone-style-component.netlify.app/
-- https://simple-camera-app-to-capture-photo.netlify.app/
-- https://corona-live-24.herokuapp.com/
-- https://javascriptweather-app.herokuapp.com/
-- https://quran-live.herokuapp.com/
-- https://video-chat-with-shaheb.herokuapp.com/
-- https://systembugbd.github.io/speed-typing-master/
-- https://poll-app-express-ejs.herokuapp.com/
+  <!-- First row of email templates -->
+ <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+    <div>
+      <a href="https://article-summarizer-ai-by-shaheb.netlify.app/" target="_blank">
+        <img src="https://via.placeholder.com/200x100.png?text=Email+Template+1" alt="Email Template Project 1" width="200" height="100"/>
+      </a>
+      <p><a href="https://article-summarizer-ai-by-shaheb.netlify.app/" target="_blank" style="color:#02b7ff">Article Summarizer AI 🤖</a></p>
+    </div>
+    <div>
+      <a href="https://disney-clone-style-component.netlify.app/" target="_blank">
+        <img src="https://via.placeholder.com/200x100.png?text=Email+Template+2" alt="Email Template Project 2" width="200" height="100"/>
+      </a>
+      <p><a href="https://disney-clone-style-component.netlify.app/" target="_blank" style="color:#02b7ff">Disney (Styled Component) 🎬</a></p>
+    </div>
+    <div>
+      <a href="https://react-redux-todo-app-with-json-server.netlify.app/" target="_blank" >
+        <img src="https://via.placeholder.com/200x100.png?text=Email+Template+3" alt="Email Template Project 3" width="200" height="100"/>
+      </a>
+      <p><a href="https://react-redux-todo-app-with-json-server.netlify.app/" target="_blank" style="color:#02b7ff">Simple todo App 📷</a></p>
+    </div>
+     <div>
+      <a href="https://google-meet-clone-by-shaheb.netlify.app/" target="_blank">
+        <img src="https://via.placeholder.com/200x100.png?text=Email+Template+3" alt="Email Template Project 3" width="200" height="100"/>
+      </a>
+      <p><a href="https://google-meet-clone-by-shaheb.netlify.app/" target="_blank" style="color:#02b7ff">Google Meet Clone 🗳️</a></p>
+    </div>
+     <div>
+      <a href="https://covid19trackingappbyshaheb.netlify.app/" target="_blank">
+        <img src="https://via.placeholder.com/200x100.png?text=Email+Template+3" alt="Email Template Project 3" width="200" height="100"/>
+      </a>
+      <p><a href="https://covid19trackingappbyshaheb.netlify.app/" target="_blank" style="color:#02b7ff">Covid 19 tracker 🗳️</a></p>
+    </div>
+     <div>
+      <a href="https://systembugbd.github.io/speed-typing-master/" target="_blank">
+        <img src="https://via.placeholder.com/200x100.png?text=Email+Template+3" alt="Email Template Project 3" width="200" height="100"/>
+      </a>
+      <p><a href="https://systembugbd.github.io/speed-typing-master/" target="_blank" style="color:#02b7ff">Bangla Typing App 🗳️</a></p>
+    </div>
+  </div>
+  
+</div>
 
-<h3>Rapid API- Web Scraping with Cherio</h3>
+<h3 align="center" style="color:#ff8f00">Technologies & Tools I Use</h3>
 
-- https://rapidapi.com/wwwdonus/api/dua-and-zikir/
-- https://rapidapi.com/wwwdonus/api/climate-change3/
+<p align="center">
+  <strong style="color:#02b7ff">Additional Tools & Technologies:</strong>
+  <br/>  <br/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-%23B4A0D7.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Klaviyo-%23F5A042.svg?&style=for-the-badge&logo=klaviyo&logoColor=white" alt="Klaviyo" />
+  <img src="https://img.shields.io/badge/Mailchimp-%23FF9F1A.svg?&style=for-the-badge&logo=mailchimp&logoColor=white" alt="Mailchimp" />
+  <img src="https://img.shields.io/badge/Adobe%20Campaign-%23FF6666.svg?&style=for-the-badge&logo=adobecampaign&logoColor=white" alt="Adobe Campaign" />
+<img src="https://img.shields.io/badge/Salesforce-%23FF4F19.svg?&style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce CRM" />
+<img src="https://img.shields.io/badge/CampaignMonitor-%2339B54A.svg?&style=for-the-badge&logo=campaignmonitor&logoColor=white" alt="CampaignMonitor" />
+<img src="https://img.shields.io/badge/Litmus-%23F0B800.svg?&style=for-the-badge&logo=litmus&logoColor=white" alt="Litmus" />
+<img src="https://img.shields.io/badge/EmailOnAcid-%23EA4C89.svg?&style=for-the-badge&logo=emailonacid&logoColor=white" alt="EmailOnAcid" />
 
-<h3>Profile</h3>
-
-- https://profile-shaheb-ali.vercel.app/
-- https://systembugbd.github.io/web-profile/
-  <br /><br />
-
-<h3>Electronic Driect Mail(EDM)</h3>
-<h5>Fully Responsive, DarkMode Compitable, All Email Client Support Custom Email Template</h5>
-- https://shahebali247bd.github.io/Mastering-Email-Template-101/
-
-<h3>Reach out me</h3>
-
-- 👨‍💻 To know more about all project and service please contact **wwwdonus@gmail.com**
-
-- 💬 Ask me about **JavaScript, ReactJS, NextJs, NodeJs, ExpressJs, Adobe Photoshop, Adobe Illustrator, Adobe XD and Figma Design and prototyping etc.**
-- ⚡ Fun fact **I Love to Run(Half Marathon), Football, Cricket, Badminton, Table Tennis etc**
-
-<!-- ### Blogs postsBLOG-POST-LIST: START-->
-
-- My Letest post on [Dev.To](https://dev.to/systembugbd/node-express-basic-project-setup-with-folder-structure-for-beginners-3162)
-
-<!-- BLOG-POST-LIST: END -->
-
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://dev.to/systembugbd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/dev-dot-to.svg" alt="https://dev.to/systembugbd" height="30" width="40" style="fill:white" /></a>
-<a href="https://twitter.com/md_shaheb_ali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/twitter.svg" alt="systembugbd" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/md-shaheb-ali-wwwdon/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/linkedin.svg" alt="https://www.linkedin.com/in/md-shaheb-ali-wwwdon/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shaheb.ali.wwwdonus/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/instagram.svg" alt="https://www.instagram.com/shaheb.ali.wwwdonus/" height="30" width="40" /></a>
-<a href="https://medium.com/@wwwdonus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/medium.svg" alt="@wwwdonus" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCAr7KlIrRt63_QbF73W98fw/videos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/youtube.svg" alt="https://www.youtube.com/channel/UCAr7KlIrRt63_QbF73W98fw/videos" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <strong style="color:#02b7ff">Frontend Languages & Frameworks:</strong>
+  <br/>  <br/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SASS-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%23006FF6.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/Styled%20Components-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" />
+  <!-- <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /> -->
+  <!-- <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> -->
+  <img src="https://img.shields.io/badge/MySQL-%2300f5a6.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Redux-%230A7A8C.svg?&style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+</p>
 
-<br/>
+<h3 align="center" style="color:#ff8f00">GitHub Stats</h3>
 
-<!-- <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/systembugbd?new=1"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="systembugbd" /></a></p><br><br> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShahebAli247bd&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical" alt="Shaheb Ali's GitHub Stats" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahebAli247bd&layout=compact&hide_border=true&theme=radical" alt="Shaheb Ali's Top Languages" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=systembugbd&show_icons=true&locale=en&layout=compact" alt="systembugbd" /></p>
+<h3 align="center" style="color:#ff8f00">Contact Me</h3>
 
-<br/>
-
-<p>&nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api?username=systembugbd&show_icons=true&locale=en" alt="systembugbd" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=systembugbd&" alt="systembugbd" /></p>
-
-<!--- 
-systembugbd/systembugbd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="mailto:shaheb.ali@domain.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
