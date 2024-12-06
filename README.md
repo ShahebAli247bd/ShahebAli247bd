@@ -88,13 +88,13 @@
       </td>
       <td style="text-align: center; padding: 10px;">
         <a href="https://demo-link-for-email-template.com" target="_blank" style="color:#02b7ff; text-align:center">
-          <img src="https://via.placeholder.com/200x100.png?text=Email+Template+5" alt="Email Template Project 5" width="200" height="100"/>
+          <img src="#" alt="Email Template Project 5" width="200" height="100"/>
         </a>
         <p><a href="https://demo-link-for-email-template.com" target="_blank" style="color:#02b7ff; text-align:center">Course Second Project</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
         <a href="https://demo-link-for-email-template.com" target="_blank" style="color:#02b7ff; text-align:center">
-          <img src="https://via.placeholder.com/200x100.png?text=Email+Template+6" alt="Email Template Project 6" width="200" height="100"/>
+          <img src="#" alt="Email Template Project 6" width="200" height="100"/>
         </a>
         <p><a href="https://demo-link-for-email-template.com" target="_blank" style="color:#02b7ff; text-align:center">Course Third Project</a></p>
       </td>
