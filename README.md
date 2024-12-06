@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaheb Ali</h1> 
-<h3 align="center">📧 9+ Years Experienced Expert Email Developer 💻</h3>
+<h3 align="center">📧 8+ Years Experienced Expert Email Developer 💻</h3>
 <h5 align="center" style="color:#00ff74">Working for Dell Technology</h5>
 
 <p align="center">
@@ -62,19 +62,19 @@
     <tr>
         <td style="text-align: center; padding: 10px;">
         <a href="https://shahebali247bd.github.io/Mastering-Email-Template-101/" target="_blank" style="color:#02b7ff; text-align:center">
-          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/course.gif" alt="Email Template Project 2" width="200" height="auto"/>
+          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/email/course.gif" alt="Email Template Project 2" width="200" height="auto"/>
         </a>
         <p><a href="https://shahebali247bd.github.io/Mastering-Email-Template-101/" target="_blank" style="color:#02b7ff; text-align:center">Course Selling Project</a></p>
       </td>
        <td style="text-align: center; padding: 10px;">
         <a href="https://shahebali247bd.github.io/email-template-portfolio/" target="_blank" style="color:#02b7ff; text-align:center">
-          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/profile.gif" alt="Email Template Project 3" width="200" height="auto"/>
+          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/email/profile.gif" alt="Email Template Project 3" width="200" height="auto"/>
         </a>
         <p><a href="https://shahebali247bd.github.io/email-template-portfolio/" target="_blank" style="color:#02b7ff; text-align:center">Developer Portfolio</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
         <a href="https://shahebali247bd.github.io/dacia-edm/" target="_blank" style="color:#02b7ff; text-align:center">
-          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/dacia.gif" alt="Email Template Project 1" width="200" height="auto"/>
+          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/email/dacia.gif" alt="Email Template Project 1" width="200" height="auto"/>
         </a>
         <p><a href="https://shahebali247bd.github.io/dacia-edm/" target="_blank" style="color:#02b7ff; text-align:center">DACIA CAR</a></p>
       </td>     
@@ -82,7 +82,7 @@
     <tr>
       <td style="text-align: center; padding: 10px;">
         <a href="https://shahebali247bd.github.io/course-project-1/" target="_blank" style="color:#02b7ff; text-align:center">
-          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/first-project.gif" alt="Email Template Project 4" width="200" height="auto"/>
+          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/email/first-project.gif" alt="Email Template Project 4" width="200" height="auto"/>
         </a>
         <p><a href="https://shahebali247bd.github.io/course-project-1/" target="_blank" style="color:#02b7ff; text-align:center">Course First Project</a></p>
       </td>
@@ -112,19 +112,19 @@
     <tr>
       <td style="text-align: center; padding: 10px;">
         <a href="https://article-summarizer-ai-by-shaheb.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">
-          <img src="https://via.placeholder.com/200x100.png?text=Web+App+1" alt="Article Summarizer AI" width="200" height="100"/>
+          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/app/article-summary.gif" alt="Article Summarizer AI" width="200" height="auto"/>
         </a>
         <p><a href="https://article-summarizer-ai-by-shaheb.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">Article Summarizer AI</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
         <a href="https://disney-clone-style-component.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">
-          <img src="https://via.placeholder.com/200x100.png?text=Web+App+2" alt="Disney Styled Component" width="200" height="100"/>
+          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/app/disney.gif" alt="Disney Styled Component" width="200" height="auto"/>
         </a>
         <p><a href="https://disney-clone-style-component.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">Disney (Styled Component)</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
         <a href="https://react-redux-todo-app-with-json-server.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center"> 
-          <img src="https://via.placeholder.com/200x100.png?text=Web+App+3" alt="Simple Todo App" width="200" height="100"/>
+          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/app/todo-app.gif" alt="Simple Todo App" width="200" height="auto"/>
         </a>
         <p><a href="https://react-redux-todo-app-with-json-server.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">Simple Todo App</a></p>
       </td>
@@ -132,19 +132,19 @@
     <tr>
       <td style="text-align: center; padding: 10px;">
         <a href="https://google-meet-clone-by-shaheb.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">
-          <img src="https://via.placeholder.com/200x100.png?text=Web+App+4" alt="Google Meet Clone" width="200" height="100"/>
+          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/app/google-meet.gif" alt="Google Meet Clone" width="200" height="auto"/>
         </a>
         <p><a href="https://google-meet-clone-by-shaheb.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">Google Meet Clone</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
         <a href="https://covid19trackingappbyshaheb.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">
-          <img src="https://via.placeholder.com/200x100.png?text=Web+App+5" alt="Covid-19 Tracker" width="200" height="100"/>
+          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/app/covid-tracker.gif" alt="Covid-19 Tracker" width="200" height="auto"/>
         </a>
         <p><a href="https://covid19trackingappbyshaheb.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">Covid 19 Tracker</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
         <a href="https://systembugbd.github.io/speed-typing-master/" target="_blank" style="color:#02b7ff; text-align:center">
-          <img src="https://via.placeholder.com/200x100.png?text=Web+App+6" alt="Bangla Typing App" width="200" height="100"/>
+          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/app/typing.gif" alt="Bangla Typing App" width="200" height="auto"/>
         </a>
         <p><a href="https://systembugbd.github.io/speed-typing-master/" target="_blank" style="color:#02b7ff; text-align:center">Bangla Typing App</a></p>
       </td>
