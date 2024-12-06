@@ -81,23 +81,23 @@
       </td>     
     </tr>
     <tr>
-      <td style="text-align: center; padding: 10px;">
+      <td style="text-align: center; padding: 10px;" valign="top">
         <a href="https://shahebali247bd.github.io/course-project-1/" target="_blank" style="color:#02b7ff; text-align:center">
           <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/email/first-project.gif" alt="Email Template Project 4" width="200" height="auto"/>
         </a>
         <p><a href="https://shahebali247bd.github.io/course-project-1/" target="_blank" style="color:#02b7ff; text-align:center">Course First Project</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
-        <a href="https://demo-link-for-email-template.com" target="_blank" style="color:#02b7ff; text-align:center">
-          <img src="#" alt="Email Template Project 5" width="200" height="100"/>
+        <a href="https://shahebali247bd.github.io/product-promotion-1/" target="_blank" style="color:#02b7ff; text-align:center">
+          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/main/email/product-promotion.gif" alt="Email Template Project 5" width="200" height="auto"/>
         </a>
-        <p><a href="https://demo-link-for-email-template.com" target="_blank" style="color:#02b7ff; text-align:center">Course Second Project</a></p>
+        <p><a href="https://shahebali247bd.github.io/product-promotion-1/" target="_blank" style="color:#02b7ff; text-align:center">Product Promotion</a></p>
       </td>
       <td style="text-align: center; padding: 10px;">
-        <a href="https://demo-link-for-email-template.com" target="_blank" style="color:#02b7ff; text-align:center">
-          <img src="#" alt="Email Template Project 6" width="200" height="100"/>
+        <a href="https://shahebali247bd.github.io/product-promotion-2/" target="_blank" style="color:#02b7ff; text-align:center">
+          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/main/email/product-promotion-2.gif" alt="Email Template Project 6" width="200" height="auto"/>
         </a>
-        <p><a href="https://demo-link-for-email-template.com" target="_blank" style="color:#02b7ff; text-align:center">Course Third Project</a></p>
+        <p><a href="https://shahebali247bd.github.io/product-promotion-2/" target="_blank" style="color:#02b7ff; text-align:center">Product Promotion ZikZak</a></p>
       </td>
     </tr>
   </table>
