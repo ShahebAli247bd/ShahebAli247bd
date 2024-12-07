@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaheb Ali</h1> 
-<h3 align="center">📧 8+ Years Experienced Expert Email Developer 💻</h3>
+<h3 align="center">📧 Expert Email Developer | 8+ Years of Experience 💻</h3>
 <h5 align="center" style="color:#00ff74">Working for Dell Technology</h5>
 <p align="center" style="color:#00ff74">Due to privacy policy and SLA, projects are available on request only.</p>
 
