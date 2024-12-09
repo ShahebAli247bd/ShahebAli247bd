@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shaheb Ali</h1> 
 <h3 align="center">📧 Expert Email Developer | 8+ Years of Experience 💻</h3>
+<p align="center"><strong><a href="https://drive.google.com/file/d/11LuV9TqDBFEvdRhe6Yz3FSfucJerOXYe/view?usp=sharing" target="_blank">📄 Download PDF version CV</a></strong></p>
+
+ 
+
 <h5 align="center" style="color:#00ff74">Working for Dell Technology</h5>
 <p align="center" style="color:#00ff74">Due to privacy policy and SLA, projects are available on request only.</p>
 
@@ -48,10 +52,6 @@
 </p>
 
 <h3 align="center" style="color:#ff8f00">My Projects</h3>
-
-<p align="center">
-  <strong>All of my email template development projects are available on my <a href="https://github.com/ShahebAli247bd" target="blank">GitHub</a> profile.</strong>
-</p>
 
 <h3 align="center" style="color:#ff8f00">Email Template Portfolio</h3>
 
