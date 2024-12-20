@@ -103,12 +103,23 @@
   </table>
 </div>
 
-<h3 align="center" style="color:#ff8f00">Demo Projects</h3>
+<h3 align="center" style="color:#ff8f00">Frontend Projects</h3>
 <p align="center">
-  <strong> Some of my live demo projects:</strong>
+  <strong> Some of my live projects:</strong>
 </p>
 
  <div align="center">
+   <table style="width: 100%; max-width: 1000px; border-collapse: collapse;">
+    <tr>
+      <td style="text-align: center; padding: 10px;">
+        <a href="[https://article-summarizer-ai-by-shaheb.netlify.app/](https://personal-assistant-by-shaheb.netlify.app/)" target="_blank" style="color:#02b7ff; text-align:center">
+          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/app/personal-assistant.png" alt="Personal AI" width="200" height="auto"/>
+        </a>
+        <p><a href="https://article-summarizer-ai-by-shaheb.netlify.app/" target="_blank" style="color:#02b7ff; text-align:center">Personal Assistant Gemini AI</a></p>
+      </td>
+    </tr>
+   </table>
+  
   <table style="width: 100%; max-width: 1000px; border-collapse: collapse;">
     <tr>
       <td style="text-align: center; padding: 10px;">
