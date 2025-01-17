@@ -14,7 +14,7 @@
 
 <div style="max-width: 700px; margin: 0 auto; text-align: left;">
   <p  align="left" >
-    With over 9+ years of experience in web Technology, specialize in <strong>hand-coded custom email template development</strong>. I ensure all my email templates are <strong style="color:#00ff74">fully responsive</strong>, <strong style="color:#ff8f00">dark mode-compatible</strong>, and tested to perform seamlessly across <strong style="color:#02b7ff">all major email clients</strong> 📨. My expertise spans working with platforms like <strong>Klaviyo</strong> 📧, <strong>Mailchimp</strong> 🐝, <strong>Adobe Campaign</strong> 🎨, and <strong>Salesforce CRM</strong> 🚀, enabling me to deliver dynamic and personalized email campaigns.
+    With over 11+ years of experience in web Technology, specialize in <strong>hand-coded custom email template development</strong>. I ensure all my email templates are <strong style="color:#00ff74">fully responsive</strong>, <strong style="color:#ff8f00">dark mode-compatible</strong>, and tested to perform seamlessly across <strong style="color:#02b7ff">all major email clients</strong> 📨. My expertise spans working with platforms like <strong>Klaviyo</strong> 📧, <strong>Mailchimp</strong> 🐝, <strong>Adobe Campaign</strong> 🎨, and <strong>Salesforce CRM</strong> 🚀, enabling me to deliver dynamic and personalized email campaigns.
   </p>
 
   <p align="left">
