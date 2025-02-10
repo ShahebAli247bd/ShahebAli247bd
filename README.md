@@ -14,7 +14,7 @@ I specialize in Frontend Development with React, focusing on crafting seamless, 
 
   <p align="left">
     <strong style="color:#00ff74">Key Skills & Expertise:</strong>
-    <ul style="list-style-type: none; padding: 0; text-align:left">
+    <ul style="list-style-type: none; padding: 0; text-align:left; list-style:none;">
       <li><strong style="color:#ff8f00">🔹 HTML, CSS, and JavaScript Mastery</strong><br/> &nbsp; &nbsp;💻 Writing clean, semantic, and optimized code for fast, accessible, and SEO-friendly web experiences.</li>
       <li><strong style="color:#ff8f00">🔹 React & Next.js Development</strong><br/> &nbsp; &nbsp;⚛️ Developing high-performance, component-based UIs with React and Next.js for seamless SSR & CSR experiences.</li>
       <li><strong style="color:#ff8f00">🔹 Responsive & Cross-Browser Development</strong><br/> &nbsp; &nbsp;📱 Ensuring pixel-perfect designs that adapt flawlessly across all devices and browsers, including Chrome, Firefox, Safari, and Edge.</li>
@@ -28,7 +28,7 @@ I specialize in Frontend Development with React, focusing on crafting seamless, 
 
   <p>
     <strong style="color:#00ff74">Platforms & Tools I Excel In:</strong>
-    <ul style="list-style-type: none; padding: 0;">
+    <ul style="list-style-type: none; padding: 0; list-style:none;">
       <li>
       <strong style="color:#02b7ff">✅ Frameworks & Libraries:</strong>: 
       React.js ⚛️ Next.js 🔥 Tailwind CSS 🎨 Bootstrap 📏 ⚛️ Redux
