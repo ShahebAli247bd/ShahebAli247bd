@@ -2,11 +2,6 @@
 <h3 align="center">📧 Expert Email Developer | 8+ Years of Experience 💻</h3>
 <p align="center"><strong><a href="https://drive.google.com/file/d/11LuV9TqDBFEvdRhe6Yz3FSfucJerOXYe/view?usp=sharing" target="_blank">📄 Download PDF version CV</a></strong></p>
 
- 
-
-<h5 align="center" style="color:#00ff74">Working for Dell Technology</h5>
-<p align="center" style="color:#00ff74">Due to privacy policy and SLA, projects are available on request only.</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=systembugbd" alt="Shaheb Ali" />
  
