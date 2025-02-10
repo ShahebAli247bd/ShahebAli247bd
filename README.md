@@ -9,20 +9,20 @@
 
 <div style="max-width: 700px; margin: 0 auto; text-align: left;">
   <p  align="left" >
-I specialize in Frontend Development with React, focusing on crafting seamless, dynamic user interfaces and building responsive, pixel-perfect web applications. My expertise lies in transforming Figma designs into fully functional, high-performing web solutions with a strong emphasis on cross-browser compatibility and modern UI/UX standards.
+I specialize in Front-End Development with React, focusing on crafting seamless, dynamic user interfaces and building responsive, pixel-perfect web applications. My expertise includes transforming Figma designs into fully functional, high-performance web solutions, ensuring cross-browser compatibility and adherence to modern UI/UX standards.
   </p>
 
   <p align="left">
     <strong style="color:#00ff74">Key Skills & Expertise:</strong>
     <ul style="list-style-type: none; padding: 0; text-align:left; list-style:none;">
-      <li style="list-style:none"><strong style="color:#ff8f00">🔹 HTML, CSS, and JavaScript Mastery</strong><br/> &nbsp; &nbsp;💻 Writing clean, semantic, and optimized code for fast, accessible, and SEO-friendly web experiences.</li>
-      <li style="list-style:none"><strong style="color:#ff8f00">🔹 React & Next.js Development</strong><br/> &nbsp; &nbsp;⚛️ Developing high-performance, component-based UIs with React and Next.js for seamless SSR & CSR experiences.</li>
-      <li style="list-style:none"><strong style="color:#ff8f00">🔹 Responsive & Cross-Browser Development</strong><br/> &nbsp; &nbsp;📱 Ensuring pixel-perfect designs that adapt flawlessly across all devices and browsers, including Chrome, Firefox, Safari, and Edge.</li>
-      <li style="list-style:none"><strong style="color:#ff8f00">🔹 Performance Optimization</strong><br/> &nbsp; &nbsp;⚡ Implementing lazy loading, code splitting, caching strategies, and best practices to improve page load speed and user experience.</li>
-      <li style="list-style:none"><strong style="color:#ff8f00">🔹 Dark Mode & Theme Customization</strong><br/> &nbsp; &nbsp;🌙 Building UI themes with dark mode support and dynamic styling for enhanced accessibility.</li>
-     <li style="list-style:none"><strong style="color:#ff8f00">🔹 State Management (Redux, Context API, Zustand)</strong><br/> &nbsp; &nbsp;🗄️ Managing application state efficiently for scalable and maintainable front-end architectures.</li>
-     <li style="list-style:none"><strong style="color:#ff8f00">🔹 API Integration & Data Fetching</strong><br/> &nbsp; &nbsp;🔗 Connecting with RESTful APIs, GraphQL, and Firebase for seamless data flow and interactivity.</li>
-     <li style="list-style:none"><strong style="color:#ff8f00">🔹 Design-to-Code Conversion</strong><br/> &nbsp; &nbsp;🎨 Translating Figma, Adobe XD, and Photoshop designs into pixel-perfect, fully functional web pages.</li>
+      <li style="list-style:none"><strong style="color:#ff8f00">HTML, CSS, and JavaScript Mastery</strong><br/> &nbsp; &nbsp;💻 Writing clean, semantic, and optimized code for fast, accessible, and SEO-friendly web experiences.</li>
+      <li style="list-style:none"><strong style="color:#ff8f00">React & Next.js Development</strong><br/> &nbsp; &nbsp;⚛️ Developing high-performance, component-based UIs with React and Next.js for seamless SSR & CSR experiences.</li>
+      <li style="list-style:none"><strong style="color:#ff8f00">Responsive & Cross-Browser Development</strong><br/> &nbsp; &nbsp;📱 Ensuring pixel-perfect designs that adapt flawlessly across all devices and browsers, including Chrome, Firefox, Safari, and Edge.</li>
+      <li style="list-style:none"><strong style="color:#ff8f00">Performance Optimization</strong><br/> &nbsp; &nbsp;⚡ Implementing lazy loading, code splitting, caching strategies, and best practices to improve page load speed and user experience.</li>
+      <li style="list-style:none"><strong style="color:#ff8f00">Dark Mode & Theme Customization</strong><br/> &nbsp; &nbsp;🌙 Building UI themes with dark mode support and dynamic styling for enhanced accessibility.</li>
+     <li style="list-style:none"><strong style="color:#ff8f00">State Management (Redux, Context API, Zustand)</strong><br/> &nbsp; &nbsp;🗄️ Managing application state efficiently for scalable and maintainable front-end architectures.</li>
+     <li style="list-style:none"><strong style="color:#ff8f00">API Integration & Data Fetching</strong><br/> &nbsp; &nbsp;🔗 Connecting with RESTful APIs, GraphQL, and Firebase for seamless data flow and interactivity.</li>
+     <li style="list-style:none"><strong style="color:#ff8f00">Design-to-Code Conversion</strong><br/> &nbsp; &nbsp;🎨 Translating Figma, Adobe XD, and Photoshop designs into pixel-perfect, fully functional web pages.</li>
     </ul>
   </p>
 
@@ -30,23 +30,23 @@ I specialize in Frontend Development with React, focusing on crafting seamless, 
     <strong style="color:#00ff74">Platforms & Tools I Excel In:</strong>
     <ul style="list-style-type: none; padding: 0; list-style:none;">
       <li style="list-style:none">
-      <strong style="color:#02b7ff">✅ Frameworks & Libraries:</strong>: 
+      <strong style="color:#02b7ff">Frameworks & Libraries:</strong>: 
       React.js ⚛️ Next.js 🔥 Tailwind CSS 🎨 Bootstrap 📏 ⚛️ Redux
       </li>
       <li style="list-style:none">
-      <strong style="color:#02b7ff">✅ Build Tools:</strong>: 
+      <strong style="color:#02b7ff">Build Tools:</strong>: 
        Vite ⚡ Webpack 🔧 Babel 📦
       </li>
        <li style="list-style:none">
-      <strong style="color:#02b7ff">✅ Testing: </strong>: 
+      <strong style="color:#02b7ff">Testing: </strong>: 
        Jest ✅ React Testing Library 🧪 Cypress 🛠️
       </li>
       <li style="list-style:none">
-      <strong style="color:#02b7ff">✅ Version Control: </strong>: 
+      <strong style="color:#02b7ff">Version Control: </strong>: 
        Git & GitHub 🔄 
       </li>
       <li style="list-style:none">
-      <strong style="color:#02b7ff">✅ Collaboration Tools: </strong>: 
+      <strong style="color:#02b7ff">Collaboration Tools: </strong>: 
        Jira 📌 Trello 🏷️ Notion 📋
       </li>
     </ul>
