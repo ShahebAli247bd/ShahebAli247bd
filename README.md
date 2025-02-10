@@ -14,27 +14,51 @@
 
 <div style="max-width: 700px; margin: 0 auto; text-align: left;">
   <p  align="left" >
-    With over 11+ years of experience in web Technology, specialize in <strong>hand-coded custom email template development</strong>. I ensure all my email templates are <strong style="color:#00ff74">fully responsive</strong>, <strong style="color:#ff8f00">dark mode-compatible</strong>, and tested to perform seamlessly across <strong style="color:#02b7ff">all major email clients</strong> 📨. My expertise spans working with platforms like <strong>Klaviyo</strong> 📧, <strong>Mailchimp</strong> 🐝, <strong>Adobe Campaign</strong> 🎨, and <strong>Salesforce CRM</strong> 🚀, enabling me to deliver dynamic and personalized email campaigns.
+I specialize in Frontend Development with React, focusing on crafting seamless, dynamic user interfaces and building responsive, pixel-perfect web applications. My expertise lies in transforming Figma designs into fully functional, high-performing web solutions with a strong emphasis on cross-browser compatibility and modern UI/UX standards.
   </p>
 
   <p align="left">
-    <strong style="color:#00ff74">My key skills include:</strong>
+    <strong style="color:#00ff74">Key Skills & Expertise:</strong>
     <ul style="list-style-type: none; padding: 0; text-align:left">
-      <li><strong style="color:#ff8f00">Hand-Coded HTML/CSS Email Templates</strong><br/> &nbsp; &nbsp;💻: Creating visually stunning and responsive email templates that adapt to all screen sizes and email clients.</li>
-      <li><strong style="color:#ff8f00">JavaScript for Dynamic Content</strong><br/> &nbsp; &nbsp;🖥️: Using JavaScript to enhance interactivity and deliver personalized email experiences.</li>
-      <li><strong style="color:#ff8f00">Email Client Compatibility</strong><br/> &nbsp; &nbsp;📱: Expertise in ensuring cross-client compatibility, including <strong>Outlook</strong> 📧, <strong>Gmail</strong> 📩, <strong>Apple Mail</strong> 🍏, and <strong>Yahoo</strong> 📬.</li>
-      <li><strong style="color:#ff8f00">Dark Mode Support</strong><br/> &nbsp; &nbsp;🌙: Ensuring email templates work flawlessly in dark mode, a must for modern email clients.</li>
-      <li><strong style="color:#ff8f00">Dynamic Content</strong><br/> &nbsp; &nbsp;⚡: Utilizing dynamic content to tailor emails to different user segments based on data and behavior.</li>
+      <li><strong style="color:#ff8f00">🔹 HTML, CSS, and JavaScript Mastery</strong><br/> &nbsp; &nbsp;💻 Writing clean, semantic, and optimized code for fast, accessible, and SEO-friendly web experiences.</li>
+      <li><strong style="color:#ff8f00">🔹 React & Next.js Development</strong><br/> &nbsp; &nbsp;⚛️ Developing high-performance, component-based UIs with React and Next.js for seamless SSR & CSR experiences.</li>
+      <li><strong style="color:#ff8f00">🔹 Responsive & Cross-Browser Development</strong><br/> &nbsp; &nbsp;📱 Ensuring pixel-perfect designs that adapt flawlessly across all devices and browsers, including Chrome, Firefox, Safari, and Edge.</li>
+      <li><strong style="color:#ff8f00">🔹 Performance Optimization</strong><br/> &nbsp; &nbsp;⚡ Implementing lazy loading, code splitting, caching strategies, and best practices to improve page load speed and user experience.</li>
+      <li><strong style="color:#ff8f00">🔹 Dark Mode & Theme Customization</strong><br/> &nbsp; &nbsp;🌙 Building UI themes with dark mode support and dynamic styling for enhanced accessibility.</li>
+     <li><strong style="color:#ff8f00">🔹 State Management (Redux, Context API, Zustand)</strong><br/> &nbsp; &nbsp;🗄️ Managing application state efficiently for scalable and maintainable front-end architectures.</li>
+     <li><strong style="color:#ff8f00">🔹 API Integration & Data Fetching</strong><br/> &nbsp; &nbsp;🔗 Connecting with RESTful APIs, GraphQL, and Firebase for seamless data flow and interactivity.</li>
+     <li><strong style="color:#ff8f00">🔹 Design-to-Code Conversion</strong><br/> &nbsp; &nbsp;🎨 Translating Figma, Adobe XD, and Photoshop designs into pixel-perfect, fully functional web pages.</li>
     </ul>
   </p>
 
   <p>
-    <strong style="color:#00ff74">Platforms and Tools I excel in:</strong>
+    <strong style="color:#00ff74">Platforms & Tools I Excel In:</strong>
     <ul style="list-style-type: none; padding: 0;">
-      <li><strong style="color:#02b7ff">Email Marketing Platforms</strong>: Klaviyo 📧 Mailchimp 🐝 Adobe Campaign 🎨 Salesforce CRM 🚀 Campaign Monitor 📊 SendGrid 📬 EmailOnAcid 💻 Litmus 🔍
-</li>
-      <li><strong style="color:#02b7ff">Design Tools</strong>: I have expert-level proficiency in <strong>Figma</strong> 🎨 and <strong>Photoshop</strong> 🖼️, enabling me to create pixel-perfect email designs before development.</li>
+      <li>
+      <strong style="color:#02b7ff">✅ Frameworks & Libraries:</strong>: 
+      React.js ⚛️ Next.js 🔥 Tailwind CSS 🎨 Bootstrap 📏 ⚛️ Redux
+      </li>
+      <li>
+      <strong style="color:#02b7ff">✅ Build Tools:</strong>: 
+       Vite ⚡ Webpack 🔧 Babel 📦
+      </li>
+       <li>
+      <strong style="color:#02b7ff">✅ Testing: </strong>: 
+       Jest ✅ React Testing Library 🧪 Cypress 🛠️
+      </li>
+      <li>
+      <strong style="color:#02b7ff">✅ Version Control: </strong>: 
+       Git & GitHub 🔄 
+      </li>
+      <li>
+      <strong style="color:#02b7ff">✅ Collaboration Tools: </strong>: 
+       Jira 📌 Trello 🏷️ Notion 📋
+      </li>
     </ul>
+  </p>
+
+  <p  align="left">
+I am passionate about building engaging digital experiences, solving complex front-end challenges, and staying updated with the latest web technologies. If you're looking for a highly skilled Front-End Developer to bring your web applications to life, let’s connect! 🤝🚀
   </p>
 
 <p align="center">
@@ -52,56 +76,6 @@
 </p>
 
 <h3 align="center" style="color:#ff8f00">My Projects</h3>
-
-<h3 align="center" style="color:#ff8f00">Email Template Portfolio</h3>
-
-<p align="center">
-  <strong>Some of my email template work includes:</strong>
-</p>
-<div align="center">
-  <table style="width: 100%; max-width: 800px; border-collapse: collapse;">
-    <tr>
-        <td style="text-align: center; padding: 10px;">
-        <a href="https://shahebali247bd.github.io/Mastering-Email-Template-101/" target="_blank" style="color:#02b7ff; text-align:center">
-          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/email/course.gif" alt="Email Template Project 2" width="200" height="auto"/>
-        </a>
-        <p><a href="https://shahebali247bd.github.io/Mastering-Email-Template-101/" target="_blank" style="color:#02b7ff; text-align:center">Course Selling Project</a></p>
-      </td>
-       <td style="text-align: center; padding: 10px;">
-        <a href="https://shahebali247bd.github.io/email-template-portfolio/" target="_blank" style="color:#02b7ff; text-align:center">
-          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/email/profile.gif" alt="Email Template Project 3" width="200" height="auto"/>
-        </a>
-        <p><a href="https://shahebali247bd.github.io/email-template-portfolio/" target="_blank" style="color:#02b7ff; text-align:center">Developer Portfolio</a></p>
-      </td>
-      <td style="text-align: center; padding: 10px;">
-        <a href="https://shahebali247bd.github.io/dacia-edm/" target="_blank" style="color:#02b7ff; text-align:center">
-          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/email/dacia.gif" alt="Email Template Project 1" width="200" height="auto"/>
-        </a>
-        <p><a href="https://shahebali247bd.github.io/dacia-edm/" target="_blank" style="color:#02b7ff; text-align:center">DACIA CAR</a></p>
-      </td>     
-    </tr>
-    <tr>
-      <td style="text-align: center; padding: 10px;" valign="top">
-        <a href="https://shahebali247bd.github.io/course-project-1/" target="_blank" style="color:#02b7ff; text-align:center">
-          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/email/first-project.gif" alt="Email Template Project 4" width="200" height="auto"/>
-        </a>
-        <p><a href="https://shahebali247bd.github.io/course-project-1/" target="_blank" style="color:#02b7ff; text-align:center">Course First Project</a></p>
-      </td>
-      <td style="text-align: center; padding: 10px;">
-        <a href="https://shahebali247bd.github.io/product-promotion-1/" target="_blank" style="color:#02b7ff; text-align:center">
-          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/main/email/product-promotion.gif" alt="Email Template Project 5" width="200" height="auto"/>
-        </a>
-        <p><a href="https://shahebali247bd.github.io/product-promotion-1/" target="_blank" style="color:#02b7ff; text-align:center">Product Promotion</a></p>
-      </td>
-      <td style="text-align: center; padding: 10px;">
-        <a href="https://shahebali247bd.github.io/product-promotion-2/" target="_blank" style="color:#02b7ff; text-align:center">
-          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/main/email/product-promotion-2.gif" alt="Email Template Project 6" width="200" height="auto"/>
-        </a>
-        <p><a href="https://shahebali247bd.github.io/product-promotion-2/" target="_blank" style="color:#02b7ff; text-align:center">Product Promotion ZikZak</a></p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <h3 align="center" style="color:#ff8f00">Frontend Projects</h3>
 <p align="center">
@@ -163,6 +137,59 @@
     </tr>
   </table>
 </div>
+
+
+
+<h3 align="center" style="color:#ff8f00">Email Template Portfolio</h3>
+
+<p align="center">
+  <strong>Some of my email template work includes:</strong>
+</p>
+<div align="center">
+  <table style="width: 100%; max-width: 800px; border-collapse: collapse;">
+    <tr>
+        <td style="text-align: center; padding: 10px;">
+        <a href="https://shahebali247bd.github.io/Mastering-Email-Template-101/" target="_blank" style="color:#02b7ff; text-align:center">
+          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/email/course.gif" alt="Email Template Project 2" width="200" height="auto"/>
+        </a>
+        <p><a href="https://shahebali247bd.github.io/Mastering-Email-Template-101/" target="_blank" style="color:#02b7ff; text-align:center">Course Selling Project</a></p>
+      </td>
+       <td style="text-align: center; padding: 10px;">
+        <a href="https://shahebali247bd.github.io/email-template-portfolio/" target="_blank" style="color:#02b7ff; text-align:center">
+          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/email/profile.gif" alt="Email Template Project 3" width="200" height="auto"/>
+        </a>
+        <p><a href="https://shahebali247bd.github.io/email-template-portfolio/" target="_blank" style="color:#02b7ff; text-align:center">Developer Portfolio</a></p>
+      </td>
+      <td style="text-align: center; padding: 10px;">
+        <a href="https://shahebali247bd.github.io/dacia-edm/" target="_blank" style="color:#02b7ff; text-align:center">
+          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/email/dacia.gif" alt="Email Template Project 1" width="200" height="auto"/>
+        </a>
+        <p><a href="https://shahebali247bd.github.io/dacia-edm/" target="_blank" style="color:#02b7ff; text-align:center">DACIA CAR</a></p>
+      </td>     
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 10px;" valign="top">
+        <a href="https://shahebali247bd.github.io/course-project-1/" target="_blank" style="color:#02b7ff; text-align:center">
+          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/refs/heads/main/email/first-project.gif" alt="Email Template Project 4" width="200" height="auto"/>
+        </a>
+        <p><a href="https://shahebali247bd.github.io/course-project-1/" target="_blank" style="color:#02b7ff; text-align:center">Course First Project</a></p>
+      </td>
+      <td style="text-align: center; padding: 10px;">
+        <a href="https://shahebali247bd.github.io/product-promotion-1/" target="_blank" style="color:#02b7ff; text-align:center">
+          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/main/email/product-promotion.gif" alt="Email Template Project 5" width="200" height="auto"/>
+        </a>
+        <p><a href="https://shahebali247bd.github.io/product-promotion-1/" target="_blank" style="color:#02b7ff; text-align:center">Product Promotion</a></p>
+      </td>
+      <td style="text-align: center; padding: 10px;">
+        <a href="https://shahebali247bd.github.io/product-promotion-2/" target="_blank" style="color:#02b7ff; text-align:center">
+          <img src="https://raw.githubusercontent.com/ShahebAli247bd/all-email-template/main/email/product-promotion-2.gif" alt="Email Template Project 6" width="200" height="auto"/>
+        </a>
+        <p><a href="https://shahebali247bd.github.io/product-promotion-2/" target="_blank" style="color:#02b7ff; text-align:center">Product Promotion ZikZak</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <h3 align="center" style="color:#ff8f00">Technologies & Tools I Use</h3>
 
