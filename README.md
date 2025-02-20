@@ -39,7 +39,7 @@ I specialize in Front-End Development with React, focusing on crafting seamless,
       </li>
        <li style="list-style:none">
       <strong style="color:#02b7ff">Testing: </strong>: 
-       Jest ✅ React Testing Library 🧪 Cypress 🛠️
+       Jest ✅ 
       </li>
       <li style="list-style:none">
       <strong style="color:#02b7ff">Version Control: </strong>: 
